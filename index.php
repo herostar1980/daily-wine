@@ -24,7 +24,7 @@
     <link rel="stylesheet" href="user/assets/css/style.css">
 </head>
 <?PHP 
-include("admin/connect/connect.php");
+// include("admin/connect/connect.php");
 ?>
 <body>
     <!--? Preloader Start -->
